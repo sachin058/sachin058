@@ -35,7 +35,7 @@ An AI-powered scheduling tool that efficiently organizes classes, meetings, and 
 ### 📬 Contact Me
 📧 Email: **[sachindongare058@gmail.com](mailto:sachindongare058@gmail.com)**  
 📞 Phone: **+91 8849992779**  
-🌐 Portfolio: **[Coming Soon]**  
+🌐 Portfolio: Not there yet....
 
 Let's connect and build something awesome! 🚀
 
