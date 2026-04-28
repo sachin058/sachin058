@@ -17,7 +17,7 @@ I'm passionate about creating **simple yet visually appealing** designs that enh
   - Developed the **Dental Care project**, a dentist appointment system.  
   - Gained hands-on experience with **React.js** and UI implementation.
 
-- **Full Stack + UI/UX Intern @ Builtup Technologies** _(Ongoing, 3 Months)_  
+- **Full Stack + UI/UX Intern @ Builtup Technologies** _(3 Months)_  
   - Working on **real-world front-end & back-end projects**.  
   - Refining **UI/UX skills in Figma** and enhancing **modern web technologies expertise**.
 
@@ -26,10 +26,6 @@ I'm passionate about creating **simple yet visually appealing** designs that enh
 #### 🦷 **Dental Care Website**  
 A dentist appointment system that allows patients to schedule appointments, check pricing, and manage bookings seamlessly.  
 🛠 **Tech:** React, Node.js
-
-#### 📅 **AI Timetable Generator**  
-An AI-powered scheduling tool that efficiently organizes classes, meetings, and events while considering constraints like availability and preferences.  
-🛠 **Tech:** Python, Django
 
 ---
 ### 📬 Contact Me
