@@ -48,4 +48,4 @@ React.js development, MERN stack dental appointment project.
 ## 📬 Let's Connect
 
 📧 sachindongare058@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/sachindongare)
+💼 [LinkedIn](https://www.linkedin.com/in/sachin-dongare-a33922288)
