@@ -31,7 +31,7 @@ Looking for IT Support / Desktop Support / M365 Admin roles.
 
 Built a domain-joined enterprise IT environment using Windows Server on a VM connected to a physical Windows 10 Enterprise machine. Configured everything from AD DS and GPOs to Intune compliance policies and Exchange mail flow rules.
 
-📁 [microsoft365-homelab](https://github.com/sachin058/microsoft365-homelab) — full documentation and report
+📁 [microsoft365-homelab](https://github.com/sachin058/IT-Homelab) — full documentation and report
 
 ---
 
